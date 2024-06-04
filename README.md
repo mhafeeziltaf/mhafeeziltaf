@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm MohammadHafeez</h1>
-<h3 align="center">A passionate software engineering graduate with a keen interest in data analytics and web application development. I hold a Bachelor's degree in Software Engineering from the City University of Science and Information Technology Peshawar and am a Google Certified Professional Data Analyst.</h3>
+<h1 align="left">Hi 👋, I'm MohammadHafeez</h1>
+<h4 align="left">A passionate software engineering graduate with a keen interest in data analytics and web application development. I hold a Bachelor's degree in Software Engineering from the City University of Science and Information Technology Peshawar <br><br><i><b>Google Certified Professional Data Analyst.</b></i></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhafeeziltaf&label=Profile%20views&color=0e75b6&style=flat" alt="mhafeeziltaf" /> </p>
 
-- 📫 Get in touch **mhafeeiltaf@gmail.com**
+🔧 Technical Skills: 
+
+💻 Web Development: HTML, CSS, PHP, Flutter 
+
+👨‍💻 Programming Languages: Python, R, C++ **222**
+
+🧠 Data Analysis: SQL, Google Sheets, Tableau, Power BI 
+
+🖥️ IDEs: DevC++, VSCode, jupyter Notebook, spyder **555**
+
+📫 Get in touch **mhafeeiltaf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
