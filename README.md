@@ -7,13 +7,20 @@
 
 💻 Web Development: HTML, CSS, PHP, Flutter 
 
-👨‍💻 Programming Languages: Python, R, C++ **222**
+👨‍💻 Programming Languages: Python, R, C++ 
 
 🧠 Data Analysis: SQL, Google Sheets, Tableau, Power BI 
 
-🖥️ IDEs: DevC++, VSCode, jupyter Notebook, spyder **555**
+🖥️ IDEs: DevC++, VSCode, jupyter Notebook, spyder 
+
+🚀 Interests:
+
+📊 Data analysis and visualization
+
+💡 Continuous learning and professional growth
 
 📫 Get in touch **mhafeeiltaf@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
